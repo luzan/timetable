@@ -1,3 +1,5 @@
+##Time Table Management System of University Classes
+
 Project build on **Visual Basic 6**
 
 Database used: **Microsoft Access**
@@ -12,3 +14,5 @@ Most probably this was my first and last project on Visual Basic.
 I lost it when my desktop crashed few years ago and found a backup CD now.
 I may not be able to resolve any issues you make on this project but would be happy if someone works out through the code.
 I believe the project was up and running then, and only part not working was the print function.
+
+Follow me on *Twitter* [@luzanb](http://twitter.com/luzanb)
